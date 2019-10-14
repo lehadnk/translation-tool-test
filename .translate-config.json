@@ -1,0 +1,27 @@
+{
+  "configVersion": "1.1.13",
+
+  "components": [
+    {
+      "name": "default",
+      "includePaths": [
+        "src/"
+      ],
+      "excludePaths": [],
+      "translationFileName": "lang/{localeName}/main.po"
+    }
+  ],
+
+  "vcs": "bitbucket",
+  "vcsUsername": "lehadnk@gmail.com",
+  "vcsPassword": "password",
+  "vcsRepository": "nevidimov/giftd-crm",
+  "vcsAuthToken": "token",
+
+  "translationBranchName": "translation",
+
+  "weblateServiceUrl": "http://159.65.200.211",
+  "weblateProjectSlug": "crm",
+  "weblateComponentSlug": "main",
+  "weblateAuthToken": "token"
+}
