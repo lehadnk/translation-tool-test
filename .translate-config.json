@@ -12,11 +12,9 @@
     }
   ],
 
-  "vcs": "bitbucket",
-  "vcsUsername": "lehadnk@gmail.com",
-  "vcsPassword": "password",
-  "vcsRepository": "nevidimov/giftd-crm",
-  "vcsAuthToken": "token",
+  "vcs": "github",
+  "vcsRepository": "lehadnk/translation-tool-test",
+  "vcsAuthToken": "1c374bad52701a19e54fe3eab72a7c3e546baced",
 
   "translationBranchName": "translation",
 
